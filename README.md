@@ -35,5 +35,3 @@ Power BI Blog
 Feel free to contribute, report issues, or suggest improvements. Let's empower each other with the transformative capabilities of Power BI!
 
 Happy analyzing! 📊💡
-
-Feel free to modify and personalize this description according to the specifics of your Power BI dashboards projects.
